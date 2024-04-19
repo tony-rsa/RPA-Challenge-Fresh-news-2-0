@@ -1,0 +1,22 @@
+- name: Trigger Robocorp Control Room process run
+  # You may pin to the exact commit or the version.
+  # uses: robocorp/action-trigger-process@8dda575d5aa595f1c84139ee808496ffb538d7f7
+  uses: robocorp/action-trigger-process@v1.3.0
+  with:
+    # Workspace API key
+    api-key: 
+    # Target Control Room worskpace ID
+    workspace-id: 
+    # Target Control Room process ID
+    process-id:
+    # JSON payload for the robot
+    payload: # optional
+    # Should the action wait for process completion
+    await-complete: # optional
+    # Fail the GitHub worklfow run if Robocorp process run failed
+    fail-on-robot-fail: # optional, default is true
+    # Max time to wait for the action to complete (in seconds)
+    timeout: # optional, default is 120
+    # Robocorp workspace API endpoint
+    api-endpoint: # optional, default is https://api.eu1.robocorp.com/process-v1
+          
