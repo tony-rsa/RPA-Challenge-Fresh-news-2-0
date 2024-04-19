@@ -1,16 +1,15 @@
 # RPA-Challenge-Fresh-news-2-0
+---
 
-An automated web scraping bot to extract news data from various websites.
+> An automated web scraping bot to extract 
 
-Next, let's write a comprehensive README.md file to document the project and its usage. The README should include information about the project, its purpose, how to set it up, and how to use it. Here's an example of what the README could look like:
+--
 
-```markdown
 # NewsBot Automation
 
 The NewsBot Automation project is designed to automate the extraction of news data from a website. It uses Selenium WebDriver to interact with the website and extract news articles based on search parameters provided by the user.
 
-## Installation
-
+## Installatio
 To use the NewsBot Automation project, follow these steps:
 
 1. Clone the repository to your local machine:
