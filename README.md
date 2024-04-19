@@ -1,4 +1,4 @@
-# RPA News Scraper
+# My RPA News Scraper Solution
 ---
 > An automated web scraping bot to extract news data from various websites.
 ---
