@@ -1,15 +1,15 @@
-# RPA-Challenge-Fresh-news-2-0
+# RPA-Challenge-Fresh-news-2-0 (NewsBot Automation
 ---
 
-> An automated web scraping bot to extract 
+> The NewsBot Automation project is designed to automate the extraction of news data from a website. It uses Selenium WebDriver to interact with the website and extract news articles based on search parameters provided by the user.
+---
 
---
-
-# NewsBot Automation
+# 
 
 The NewsBot Automation project is designed to automate the extraction of news data from a website. It uses Selenium WebDriver to interact with the website and extract news articles based on search parameters provided by the user.
 
-## Installatio
+## Installation
+
 To use the NewsBot Automation project, follow these steps:
 
 1. Clone the repository to your local machine:
@@ -59,6 +59,4 @@ Contributions to the NewsBot Automation project are welcome! If you find any iss
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
-This README provides clear instructions on how to install, use, and contribute to the project. You can customize it further based on your specific project requirements. Let me know if you need any further assistance or if there's anything else you'd like to add!
