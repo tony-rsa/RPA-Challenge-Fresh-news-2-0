@@ -1,4 +1,7 @@
 # RPA News Scraper
+---
+> An automated web scraping bot to extract news data from various websites.
+--
 
 ## Overview
 
@@ -18,7 +21,7 @@ This project automates the process of extracting news articles from a news websi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/rpa-news-scraper.git
+   git clone https://github.com/tony-rsa/rpa-news-scraper.git
    ```
 
 2. Navigate to the project directory:
@@ -60,7 +63,6 @@ These parameters can be provided via the `config.ini` file or as command-line ar
 - **src/**: Contains the main Python script for the RPA News Scraper.
 - **output/**: Directory to store output files such as Excel files and downloaded images.
 - **tests/**: Directory containing unit tests for the RPA News Scraper.
-- **docs/**: Documentation files.
 
 ## Contributing
 
