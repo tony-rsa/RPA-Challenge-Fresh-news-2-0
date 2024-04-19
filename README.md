@@ -1,7 +1,7 @@
-# RPA News Scraper Solution
+# RPA News Scraper
 
 ---
-> This RPA News Scraper Solution showcases my ability to build a bot for the  purposes of process automation.
+> This News Scraper showcases my ability to build a bot for the  purposes of process automation.
 ---
 
 ## Overview
